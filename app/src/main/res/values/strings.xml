@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Budi Madani Calculator</string>
+
+    <string-array name="petrol_types">
+        <item>RON95</item>
+        <item>RON97</item>
+        <item>Diesel</item>
+    </string-array>
+</resources>
